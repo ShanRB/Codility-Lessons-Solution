@@ -45,3 +45,9 @@ Solutions in Python of codility free lessons, 2020
 ## Lesson 11 - Sieve of Eratosthenes
 - [CountNonDivisible](/CountNonDivisible.py)
 - [CountSemiprimes](/CountSemiprimes.py)
+## Lesson 12 - Euclidean algorithm
+- [ChocolatesByNumbers](/ChocolatesByNumbers.py)
+- [CommonPrimeDivisors](/CommonPrimeDivisors.py)
+## Lesson 13 - Fibonacci numbers
+- [FibFrog](/FibFrog.py)
+- [Ladder](/Ladder.py)
