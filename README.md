@@ -42,3 +42,6 @@ Solutions in Python of codility free lessons, 2020
 - [Flags](/Flags.py)
 - [MinPerimeterRectangle](/MinPerimeterRectangle.py)
 - [Peaks](/Peaks.py)
+## Lesson 11 - Sieve of Eratosthenes
+- [CountNonDivisible](/CountNonDivisible.py)
+- [CountSemiprimes](/CountSemiprimes.py)
