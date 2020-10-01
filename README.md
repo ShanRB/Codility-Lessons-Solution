@@ -1,7 +1,5 @@
-# Codility-Lessons-Solution
-**Solutions created in 2020 Sep - Oct**
-Solutions for codility free lessons in Python
-all got passed **100/100** in automated tests on codility
+# Codility-Lessons-Solution [**100/100** passed]
+Solutions in Python of codility free lessons, 2020
 
 ## Lesson 1 - Iterations
 - [BinaryGap](/BinaryGap.py)
@@ -39,3 +37,8 @@ all got passed **100/100** in automated tests on codility
 - [MaxDoubleSliceSum](/MaxDoubleSliceSum.py)
 - [MaxProfit](/MaxProfit.py)
 - [MaxSliceSum](/MaxSliceSum.py)
+## Lesson 10 - Prime and composite numbers
+- [CountFactors](/CountFactors.py)
+- [Flags](/Flags.py)
+- [MinPerimeterRectangle](/MinPerimeterRectangle.py)
+- [Peaks](/Peaks.py)
