@@ -51,3 +51,11 @@ Solutions in Python of codility free lessons, 2020
 ## Lesson 13 - Fibonacci numbers
 - [FibFrog](/FibFrog.py)
 - [Ladder](/Ladder.py)
+## Lesson 14 - Binary search algorithm
+- [MinMaxDivision](/MinMaxDivision.py)
+- [NailingPlanks](/NailingPlanks.py)
+## Lesson 15 - Caterpillar method
+- [AbsDistinct](/AbsDistinct.py)
+- [CountDistinctSlices](/CountDistinctSlices.py)
+- [CountTriangles](/CountTriangles.py)
+-[MinAbsSumOfTwo](/MinAbsSumOfTwo.py)
