@@ -65,3 +65,5 @@ Solutions in Python of codility free lessons, 2020
 ## Lesson 17 - Dynamic programming
 - [MinAbsSum](/MinAbsSum.py)
 - [NumberSolitaire](/NumberSolitaire.py)
+## Lesson 90 - Tasks from Indeed Prime 2015 challenge
+- [FloodDepth](/FloodDepth.py)
