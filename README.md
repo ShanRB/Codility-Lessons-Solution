@@ -58,4 +58,10 @@ Solutions in Python of codility free lessons, 2020
 - [AbsDistinct](/AbsDistinct.py)
 - [CountDistinctSlices](/CountDistinctSlices.py)
 - [CountTriangles](/CountTriangles.py)
--[MinAbsSumOfTwo](/MinAbsSumOfTwo.py)
+- [MinAbsSumOfTwo](/MinAbsSumOfTwo.py)
+## Lesson 16 - Greedy algorithms
+- [MaxNonoverlappingSegments](/MaxNonoverlappingSegments.py)
+- [TieRopes](/TieRopes.py)
+## Lesson 17 - Dynamic programming
+- [MinAbsSum](/MinAbsSum.py)
+- [NumberSolitaire](/NumberSolitaire.py)
